@@ -1,0 +1,8 @@
+D:\Doros\term 8\NLP\Assignment\NLP_Assingmnet2_cs\NLP_Assingmnet2_cs\bin\Debug\NLP_Assingmnet2_cs.exe.config
+D:\Doros\term 8\NLP\Assignment\NLP_Assingmnet2_cs\NLP_Assingmnet2_cs\bin\Debug\NLP_Assingmnet2_cs.exe
+D:\Doros\term 8\NLP\Assignment\NLP_Assingmnet2_cs\NLP_Assingmnet2_cs\bin\Debug\NLP_Assingmnet2_cs.pdb
+D:\Doros\term 8\NLP\Assignment\NLP_Assingmnet2_cs\NLP_Assingmnet2_cs\bin\Debug\Newtonsoft.Json.dll
+D:\Doros\term 8\NLP\Assignment\NLP_Assingmnet2_cs\NLP_Assingmnet2_cs\bin\Debug\Newtonsoft.Json.xml
+D:\Doros\term 8\NLP\Assignment\NLP_Assingmnet2_cs\NLP_Assingmnet2_cs\obj\Debug\NLP_Assingmnet2_cs.csprojResolveAssemblyReference.cache
+D:\Doros\term 8\NLP\Assignment\NLP_Assingmnet2_cs\NLP_Assingmnet2_cs\obj\Debug\NLP_Assingmnet2_cs.exe
+D:\Doros\term 8\NLP\Assignment\NLP_Assingmnet2_cs\NLP_Assingmnet2_cs\obj\Debug\NLP_Assingmnet2_cs.pdb
